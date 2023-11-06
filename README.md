@@ -6,9 +6,7 @@ Este é o meu primeiro projeto web desenvolvido com HTML e CSS, aprendido atrav�
 
 - [Visão Geral](#visão-geral)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instruções de Execução](#instruções-de-execução)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
+
 
 ## Visão Geral
 
