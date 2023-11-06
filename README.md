@@ -5,6 +5,7 @@ Este é o meu primeiro projeto web desenvolvido com HTML e CSS, aprendido atrav�
 ## Conteúdo
 
 - [Visão Geral](#visão-geral)
+- [Recursos Implementados](#recursos-implementados)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 
